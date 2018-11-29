@@ -1,0 +1,6 @@
+framework module Pods_T6SolutionDemoUITests {
+  umbrella header "Pods-T6SolutionDemoUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

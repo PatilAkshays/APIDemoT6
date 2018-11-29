@@ -1,0 +1,6 @@
+framework module Pods_T6SolutionDemoTests {
+  umbrella header "Pods-T6SolutionDemoTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
